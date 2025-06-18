@@ -1,0 +1,5 @@
+Primitive data types - string, boolean, undefined, null,numbers
+
+null = variable but nothing in it 
+undefined = no value assigned to the variable 
+
